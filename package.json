@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-modals",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Represent arbitrary web resources inside a modal",
+  "keywords": [
+    "iframe",
+    "modal",
+    "gitbook"
+  ],
+  "author": {
+    "name": "Jacob Malcom",
+    "email": "jmalcom@defenders.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacob-ogre/gitbook-plugin-modals"
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3"
+  }
+}
