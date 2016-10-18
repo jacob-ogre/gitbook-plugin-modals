@@ -13,11 +13,11 @@
 }
 
 .modal .modal_content {
-  width: 75%;
-  height: 70%;
+  width: 85%;
+  height: 80%;
   position: absolute;
-  top: 15%;
-  left: 12.5%;
+  top: 10%;
+  left: 7.5%;
   margin: 0px 0 0 0px;
   background-color: #fff;
   box-shadow: 0 2px 1px rgba(34, 25, 25, 0.1);
@@ -51,3 +51,10 @@
   bottom: 0px;
   left: 0px;
 }
+
+.modal_parent {
+  padding-left: 5px;
+  text-align: left;
+}
+
+
