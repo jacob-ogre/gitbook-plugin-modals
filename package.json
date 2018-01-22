@@ -20,7 +20,7 @@
     "gitbook": ">=2.x.x"
   },
   "dependencies": {
-    "jquery": "^2.1.4",
+    "jquery": "^3.0.0",
     "underscore": "^1.8.3"
   }
 }
