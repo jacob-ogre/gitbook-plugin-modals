@@ -17,7 +17,7 @@ Add plugin to your `book.json`, then run `gitbook install`:
 Add the web source for the modal - another webpage, a YouTube video, etc. - within the template tags:
 
 ```
-{% modalItems %}http://www.github.com Look, here's GitHub{% endmodalYoutube %}
+{% modalItems %}http://www.github.com Look, here's GitHub{% endmodalItems %}
 ```
 
 ### Add custom html code to the modal header
